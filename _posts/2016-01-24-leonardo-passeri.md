@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T19:15:42.303Z'
-dateModified: '2016-01-24T19:15:30.805Z'
+datePublished: '2016-01-24T19:19:24.482Z'
+dateModified: '2016-01-24T19:18:53.679Z'
 title: Leonardo Passeri
 author: []
 sourcePath: _posts/2016-01-24-leonardo-passeri.md
@@ -24,6 +24,7 @@ _type: Article
 ---
 # Leonardo Passeri
 
-Leonardo Passeri, a travel through Art.
+[Leonardo Passeri, a travel through Art.][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fa6199c-1c3c-4bbf-b229-c660502fb19e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d88198-974f-479e-ad5f-57beaa07ffb0.jpg)
+
+[0]: null
