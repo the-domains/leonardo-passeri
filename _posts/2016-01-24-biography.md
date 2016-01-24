@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Lonardo Passeri Biography
-datePublished: '2016-01-24T22:14:17.386Z'
-dateModified: '2016-01-24T22:13:50.224Z'
+description: '"Scenografia di una vita creativa, che si snoda ad atti inalienabili, per una pura questione di DNA."'
+datePublished: '2016-01-24T22:20:00.605Z'
+dateModified: '2016-01-24T22:19:58.928Z'
 title: BIOGRAPHY
 author: []
 sourcePath: _posts/2016-01-24-biography.md
@@ -26,8 +26,8 @@ _type: Article
 
 [][0]
 
-_"Scenografia di una vita creativa, che si snoda ad atti inalienabili,
-per una pura questione di DNA."_
+> BIOGRAPHY - __"Scenografia di una vita creativa, che si snoda ad atti inalienabili, per una pura questione di DNA."__
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9368a060-71f4-42ef-8ad8-40bf41f51a4f.jpg)
 
 Leonardo Passeri nasce ad Assisi il 26 Maggio 1982\.
