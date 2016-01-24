@@ -6,25 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lonardo Passeri Biography
-datePublished: '2016-01-24T22:02:56.797Z'
-dateModified: '2016-01-24T22:02:40.879Z'
+datePublished: '2016-01-24T22:14:17.386Z'
+dateModified: '2016-01-24T22:13:50.224Z'
 title: BIOGRAPHY
 author: []
+sourcePath: _posts/2016-01-24-biography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-biography.md
-published: true
 url: biography/index.html
 _type: Article
 
 ---
-> BIOGRAPHY
+# 
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54b4c597-6511-488a-99cc-1aff16bee3d7.jpg)
+[][0]
+
+_"Scenografia di una vita creativa, che si snoda ad atti inalienabili,
+per una pura questione di DNA."_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9368a060-71f4-42ef-8ad8-40bf41f51a4f.jpg)
 
 Leonardo Passeri nasce ad Assisi il 26 Maggio 1982\.
 
@@ -55,3 +59,5 @@ Così al pari di costoro, egli procede spedito verso il proprio destino, innamor
 Il futuro proximo venturo, potrebbe essere ora, ci sono nell'aria gentili vibrazioni ed armonie varie che lasciano pregustare la venuta del Giusto Tempo, del Verbo nuovo dell'Ars, che fece della migrazione mentale il passe parteaut per l'eterna giovinezza.
 
 Questo appare oggi ai Nostri occhi mortali il talento poderoso di Leonardo Passeri, OldBoy per eccellenza un po' glam un po' rock, un CasanovaD'Annunziano che dipinge in stile beethoviano e ed inquietudini mozartiane.
+
+[0]: https://www.facebook.com/permalink.php?story_fbid=10153135259985025&id=694375024
