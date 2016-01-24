@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T22:46:20.893Z'
+datePublished: '2016-01-24T22:46:20.938Z'
 dateModified: '2016-01-24T22:35:43.084Z'
 title: POLIEDRIC ARTIST
 author: []
