@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T19:19:24.532Z'
-dateModified: '2016-01-24T19:18:53.679Z'
+datePublished: '2016-01-24T19:19:41.801Z'
+dateModified: '2016-01-24T19:19:25.566Z'
 title: Leonardo Passeri
 author: []
 sourcePath: _posts/2016-01-24-leonardo-passeri.md
