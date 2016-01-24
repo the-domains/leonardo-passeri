@@ -1,0 +1,26 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-24T20:55:42.939Z'
+dateModified: '2016-01-24T20:55:13.975Z'
+title: POLIEDRIC ARTIST
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-24-poliedric-artist.md
+published: true
+url: poliedric-artist/index.html
+_type: Article
+
+---
+# POLIEDRIC ARTIST
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad24631-5378-4c7c-ba08-e4107c7c7594.jpg)
