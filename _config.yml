@@ -1,6 +1,6 @@
 name: LEONARDO PASSERI
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.24914
 typography_spectrum: 0.50035
 title: LEONARDO PASSERI - Contemporary Artist -
 cta:
@@ -22,7 +22,7 @@ color:
     - '#858585'
     - '#3a3a3a'
     - '#f2f2f2'
-  brandStrength: 1
+  brandStrength: 0.625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
