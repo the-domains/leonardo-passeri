@@ -1,7 +1,7 @@
 name: LEONARDO PASSERI
 favicon: null
-layout_spectrum: 0.1729966897983104
-typography_spectrum: 0.11985253356397152
+layout_spectrum: 0.018112702993676066
+typography_spectrum: 0.07370096701197326
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9307804938871413
-  lightness: 0.009588307468220592
-  saturation: 0.36090654833242297
-  rhythmicContrast: 0.7444320966023952
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7242614291608334
+  lightness: 0.3947101563680917
+  saturation: 0.5385365057736635
+  rhythmicContrast: 0.6402800797950476
 purpose: []
