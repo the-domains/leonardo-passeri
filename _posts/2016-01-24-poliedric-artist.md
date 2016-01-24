@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T20:55:42.939Z'
-dateModified: '2016-01-24T20:55:13.975Z'
+datePublished: '2016-01-24T20:59:00.157Z'
+dateModified: '2016-01-24T20:58:31.352Z'
 title: POLIEDRIC ARTIST
 author: []
+sourcePath: _posts/2016-01-24-poliedric-artist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-poliedric-artist.md
-published: true
 url: poliedric-artist/index.html
 _type: Article
 
