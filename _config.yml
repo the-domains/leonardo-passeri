@@ -1,7 +1,7 @@
 name: LEONARDO PASSERI
 favicon: null
-layout_spectrum: 0.8150407657958567
-typography_spectrum: 0.21914030541665852
+layout_spectrum: 0.49825
+typography_spectrum: 0.49768
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.4166015924420208
-  lightness: 0.5099253873340786
-  saturation: 0.8516612411476672
-  rhythmicContrast: 0.41667718067765236
+  brandStrength: 0.0625
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
