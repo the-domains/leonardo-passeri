@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T20:59:16.082Z'
-dateModified: '2016-01-24T20:59:01.266Z'
+datePublished: '2016-01-24T22:46:20.893Z'
+dateModified: '2016-01-24T22:35:43.084Z'
 title: POLIEDRIC ARTIST
 author: []
 sourcePath: _posts/2016-01-24-poliedric-artist.md
@@ -22,5 +22,4 @@ url: poliedric-artist/index.html
 _type: Article
 
 ---
-# POLIEDRIC ARTIST
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad24631-5378-4c7c-ba08-e4107c7c7594.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/179cca9d-3a8e-4f27-ab35-de86811773eb.jpg)
