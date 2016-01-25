@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T19:46:08.780Z'
-dateModified: '2016-01-24T21:53:54.240Z'
+datePublished: '2016-01-25T20:21:35.013Z'
+dateModified: '2016-01-25T20:21:28.124Z'
 title: I GIARDINI DI MARTE
 author: []
 sourcePath: _posts/2016-01-24-i-giardini-di-marte.md
@@ -22,5 +22,6 @@ url: i-giardini-di-marte/index.html
 _type: Article
 
 ---
-# I GIARDINI DI MARTE
+> I GIARDINI DI MARTE
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb700a4-87ae-4554-ba7a-b675c3af7db0.jpg)
